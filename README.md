@@ -106,14 +106,6 @@ A file browser opens — pick your `.sh` file. You'll be asked if you want to sa
 
 ---
 
-## Building from source
-
-```bash
-git clone https://github.com/YOUR_USERNAME/queens-main-core
-cd queens-main-core
-chmod +x build_appimage.sh
-./build_appimage.sh
-```
 
 `appimagetool` is downloaded automatically if not present.
 
